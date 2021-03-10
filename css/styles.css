@@ -39,6 +39,7 @@ p {
   justify-content: center;
   margin: 0 auto;
   max-width: 1170px;
+  margin-bottom: 130px
 }
 
 .box {
@@ -96,7 +97,7 @@ box p {
 }
 
 footer {
-text-align: right;
+text-align: center;
 color: #a3a5ae;
 font-size: 10px;
 }
